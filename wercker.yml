@@ -33,5 +33,5 @@ build:
     - script:
         name: go sleep
         code: |
-          sleep 10s
+          sleep 600s
     
