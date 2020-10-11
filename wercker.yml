@@ -30,8 +30,3 @@ build:
         name: go test
         code: |
           go test ./...
-    - script:
-        name: go sleep
-        code: |
-          sleep 600s
-    
